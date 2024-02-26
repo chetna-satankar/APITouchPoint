@@ -38,14 +38,14 @@ Follow these steps to get the application up and running on your local machine:
 
 4. **Stage the  changes:**
    - *git add <filename.txt>*
-    For a specific file: 
+   ( For a specific file)
     - *git add .*
-    FOr all modified files:
+    (For all modified files)
        
 5. **Commit the changes:**
     - *git commit -m "description of the new content"*
 
 6. **Push the changes:**
     - *git push origin <branch_name>*
-    main
+
 
