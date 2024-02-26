@@ -26,3 +26,26 @@ git clone https://github.com/chetna-satankar/APITouchPoint.git
 
 cd APITouchPoint
 
+## Editing file
+
+Follow these steps to Edit the application and Commit the changes in the main branch:
+
+1. **Edit the file**
+
+2. **Check the status:**
+It will show the modified file
+    - *git status*
+
+3. **Stage the  changes:**
+For a specific file: 
+    -*git add <filename.txt>*
+FOr all modified files:
+    -*git add .*
+
+4. **Commit the changes:**
+    -*git commit -m "description of the new content"*
+
+5. **Push the changes:**
+main
+    -*git push origin <branch_name>*
+
