@@ -38,14 +38,14 @@ It will show the modified file
 
 3. **Stage the  changes:**
 For a specific file: 
-    -*git add <filename.txt>*
+    - *git add <filename.txt>*
 FOr all modified files:
-    -*git add .*
+    - *git add .*
 
 4. **Commit the changes:**
-    -*git commit -m "description of the new content"*
+    - *git commit -m "description of the new content"*
 
 5. **Push the changes:**
 main
-    -*git push origin <branch_name>*
+    - *git push origin <branch_name>*
 
