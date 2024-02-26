@@ -14,4 +14,15 @@ This Spring Boot application demonstrates the basic structure and setup of "Book
 - **Webclient Integration:**
 - **Test Cases** Includes basic test cases
 
+## Getting Started
+
+Follow these steps to get the application up and running on your local machine:
+
+1. **Clone the repository:**
+
+git clone https://github.com/chetna-satankar/APITouchPoint.git
+
+2. **Navigate to the project directory:**
+
+cd APITouchPoint
 
