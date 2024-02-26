@@ -33,20 +33,19 @@ Follow these steps to get the application up and running on your local machine:
 1. **Edit the file**
 
 2. **Check the status:**
+    - *git status*
     It will show the modified file
-        - *git status*
 
-3. **Stage the  changes:**
+4. **Stage the  changes:**
+   - *git add <filename.txt>*
     For a specific file: 
-        - *git add <filename.txt>*
-
+    - *git add .*
     FOr all modified files:
-       - *git add .*
+       
+5. **Commit the changes:**
+    - *git commit -m "description of the new content"*
 
-4. **Commit the changes:**
-     - *git commit -m "description of the new content"*
-
-5. **Push the changes:**
+6. **Push the changes:**
+    - *git push origin <branch_name>*
     main
-        - *git push origin <branch_name>*
 
