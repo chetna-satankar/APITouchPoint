@@ -1,2 +1,15 @@
 Welcome to new feature branch of APITouchPoint repository.
 It iis completely for testing purpose.
+
+**Creeting new feature branch**
+
+1. clone the repo: 
+	- git clone https://github.com/chetna-satankar/APITouchPoint.git
+2. Creating new branch:
+	- git checkout -b <feature-branch_Name>
+3. Make the changes.
+4. Commit the changes
+	- git add . OR git add <fileName>
+	- git commit -m "comment msg here"
+5. Push changes
+	- git push origin <feature-branch_Name>
